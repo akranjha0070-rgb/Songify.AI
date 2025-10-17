@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Video Generator",
+  "description": "Upload a song, choose a character and style, and let AI generate a unique music video with character consistency and lip sync. A simple, free tool to bring your music to life visually.",
+  "requestFramePermissions": []
+}
